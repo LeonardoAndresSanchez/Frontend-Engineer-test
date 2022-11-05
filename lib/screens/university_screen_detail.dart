@@ -59,7 +59,7 @@ class _UniversityDetailState extends State<UniversityDetail> {
                     clipBehavior: Clip.none,
                     children: [
                       Container(
-                        width: MediaQuery.of(context).size.width * 0.35,
+                        width: MediaQuery.of(context).size.width * 0.32,
                         height: MediaQuery.of(context).size.height * 0.15,
                         margin: EdgeInsets.all(15),
                         decoration: BoxDecoration(
